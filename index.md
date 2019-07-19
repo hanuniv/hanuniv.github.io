@@ -18,7 +18,6 @@ I am a PhD student in IEOR Department, UC Berkeley. My research interest lies at
 
 ### Preprints
 + **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](http://www.ieor.berkeley.edu/~lavaei/ODC_Com_2019_1.pdf). 
-+ Yuhao Ding, **Han Feng**, and Javad Lavaei, *Aggressive Local Search for Constrained Optimal Control Problems with Many Local Minima*. 
 
 ## Teaching 
 + Mathematical Programming II (IEOR 262B) *UC Berkeley, Spring 2019*
