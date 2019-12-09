@@ -17,7 +17,8 @@ I am a PhD student in IEOR Department, UC Berkeley. My research interest lies at
 +  **Han Feng**, Javad Lavaei, [*A Convex Approximation of Optimal Distributed Controller in Frequency Domain*](https://ieeexplore.ieee.org/abstract/document/8618977), Proceedings of Conference on Decision and Control (CDC), 2018.
 
 ### Preprints
-+ **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](http://www.ieor.berkeley.edu/~lavaei/ODC_Com_2019_1.pdf). 
++ **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](http://www.ieor.berkeley.edu/~lavaei/ODC_Com_2019_1.pdf). Submitted to SIAM Journal on Control and Optimization. 
++ **Han Feng**, Javad Lavaei, [*Damping with Varying Regularization in Optimal Decentralized Control, Submitted to IEEE Transactions on Automatic Control*](http://www.ieor.berkeley.edu/~lavaei/ODC_hom_2019_2.pdf). Submitted to IEEE Transactions on Automatic Control
 
 ## Teaching 
 + Mathematical Programming II (IEOR 262B) *UC Berkeley, Spring 2019*
