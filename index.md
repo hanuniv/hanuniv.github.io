@@ -18,7 +18,7 @@ I am a PhD student in IEOR Department, UC Berkeley. My research interest lies at
 
 ### Preprints
 + **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](http://www.ieor.berkeley.edu/~lavaei/ODC_Com_2019_1.pdf). Submitted to SIAM Journal on Control and Optimization. 
-+ **Han Feng**, Javad Lavaei, [*Damping with Varying Regularization in Optimal Decentralized Control, Submitted to IEEE Transactions on Automatic Control*](http://www.ieor.berkeley.edu/~lavaei/ODC_hom_2019_2.pdf). Submitted to IEEE Transactions on Automatic Control
++ **Han Feng**, Javad Lavaei, [*Damping with Varying Regularization in Optimal Decentralized Control*](http://www.ieor.berkeley.edu/~lavaei/ODC_hom_2019_2.pdf). Submitted to IEEE Transactions on Automatic Control
 
 ## Teaching 
 + Mathematical Programming II (IEOR 262B) *UC Berkeley, Spring 2019*
