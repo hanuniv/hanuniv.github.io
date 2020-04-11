@@ -31,7 +31,7 @@ I am a PhD student in IEOR Department, UC Berkeley. My research interest lies at
 <div class="row">
 <div class="col-8">
 ## About 
-I am a PhD student in IEOR Department, UC Berkeley. My research interest lies at the intersection of control and optimization. 
+I am a PhD student in UC Berkeley IEOR Department, advised my Professor Javad Lavaei. My research interest lies at the intersection of control and optimization. 
 </div>
 <div class="col-4">
 ![lassen-snowman](assets/lassen_snowman.png){:class="img-responsive" :height="300px" width="200px"} 
@@ -50,8 +50,8 @@ I am a PhD student in IEOR Department, UC Berkeley. My research interest lies at
 
 
 ### Preprints
-+ **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](http://www.ieor.berkeley.edu/~lavaei/ODC_Com_2019_1.pdf). Submitted to SIAM Journal on Control and Optimization. 
-+ **Han Feng**, Javad Lavaei, [*Damping with Varying Regularization in Optimal Decentralized Control*](http://www.ieor.berkeley.edu/~lavaei/ODC_hom_2019_2.pdf). Submitted to Automatica
++ **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](http://www.ieor.berkeley.edu/~lavaei/ODC_Com_2019_1.pdf). Submitted for journal publication.
++ **Han Feng**, Javad Lavaei, [*Damping with Varying Regularization in Optimal Decentralized Control*](http://www.ieor.berkeley.edu/~lavaei/ODC_hom_2019_2.pdf). Submitted for journal publication.
 
 ## Teaching 
 + Mathematical Programming II (IEOR 262B) *UC Berkeley, Spring 2019*
