@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="styles/site.css">
+<link rel="stylesheet" href="/assets/css/site.css">
 
 <!-- <style>
  .grid {
@@ -44,7 +44,7 @@ I am a PhD student in IEOR Department, UC Berkeley. My research interest lies at
 ##  Publications 
 
 ### Conference Proceedings 
-+  **Han Feng**, Javad Lavaei,[*Escaping Locally Optimal Decentralized Control Polices via Damping*], Proceedings of the American Control Conference (ACC), 2020.
++  **Han Feng**, Javad Lavaei,[*Escaping Locally Optimal Decentralized Control Polices via Damping*](), Proceedings of the American Control Conference (ACC), 2020.
 +  **Han Feng**, Javad Lavaei, [*On the Exponential Number of Connected Components for the Feasible Set of Optimal Decentralized Control Problem*](https://ieeexplore.ieee.org/abstract/document/8814952). Proceedings of the American Control Conference (ACC), 2019, **Finalist for Best Student Paper**. 
 +  **Han Feng**, Javad Lavaei, [*A Convex Approximation of Optimal Distributed Controller in Frequency Domain*](https://ieeexplore.ieee.org/abstract/document/8618977), Proceedings of Conference on Decision and Control (CDC), 2018.
 
