@@ -6,7 +6,7 @@ layout: default
 ---
 
 ## About 
-
+![lassen-snowman](_site/assets/lassen_snowman.png){:class="img-responsive"}
 I am a PhD student in IEOR Department, UC Berkeley. My research interest lies at the intersection of control and optimization. 
 
 
