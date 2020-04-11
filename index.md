@@ -5,10 +5,15 @@
 layout: default
 ---
 
+<div class="row">
+<div class="col-sm-3">
+![lassen-snowman](assets/lassen_snowman.png){:class="img-responsive" :height="300px" width="200px"} 
+</div>
+<div class="col-sm-9">
 ## About 
-![lassen-snowman](lassen_snowman.png){:class="img-responsive"}
 I am a PhD student in IEOR Department, UC Berkeley. My research interest lies at the intersection of control and optimization. 
-
+</div>
+</div>
 
 ##  Publications 
 

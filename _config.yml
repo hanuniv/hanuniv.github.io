@@ -20,10 +20,17 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
-# github_username: 
+github_username: hanuniv
 
 # Build settings
 markdown: kramdown
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true
 theme: jekyll-theme-cayman
 #theme: minima
 plugins:
