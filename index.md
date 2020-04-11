@@ -5,15 +5,41 @@
 layout: default
 ---
 
-<div class="row">
-<div class="col-sm-3">
-![lassen-snowman](assets/lassen_snowman.png){:class="img-responsive" :height="300px" width="200px"} 
-</div>
-<div class="col-sm-9">
+<link rel="stylesheet" href="styles/site.css">
+
+<!-- <style>
+ .grid {
+  display: flex;
+ }
+.col-1-2 {
+  flex: 1;
+}
+.col-1-2:last-child {
+  margin-left: 10px;
+}
+</style> -->
+<!-- <div class="grid">
+<div class="col-1-2">
 ## About 
 I am a PhD student in IEOR Department, UC Berkeley. My research interest lies at the intersection of control and optimization. 
 </div>
+<div class="col-1-2">
+![lassen-snowman](assets/lassen_snowman.png){:class="img-responsive" :height="300px" width="200px"} 
 </div>
+</div> -->
+<div class="container">
+<div class="row">
+<div class="col-8">
+## About 
+I am a PhD student in IEOR Department, UC Berkeley. My research interest lies at the intersection of control and optimization. 
+</div>
+<div class="col-4">
+![lassen-snowman](assets/lassen_snowman.png){:class="img-responsive" :height="300px" width="200px"} 
+</div>
+</div> 
+</div>
+
+
 
 ##  Publications 
 
