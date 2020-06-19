@@ -11,7 +11,7 @@ layout: default
 <div class="row">
 <div class="col-8">
 ## About 
-I am a PhD student in UC Berkeley IEOR Department, advised my Professor Javad Lavaei. My research interest lies at the intersection of control and optimization. 
+I am a PhD student in UC Berkeley IEOR Department, advised by Professor Javad Lavaei. My research interest lies at the intersection of control and optimization. 
 </div>
 <div class="col-4">
 ![lassen-snowman](assets/lassen_snowman.png){:class="img-responsive" :height="300px" width="200px"} 
@@ -36,6 +36,9 @@ I am a PhD student in UC Berkeley IEOR Department, advised my Professor Javad La
 + Mathematical Programming II (IEOR 262B) *UC Berkeley, Spring 2019*
 + Nonlinear and Discrete Optimization (IEOR 160) *UC Berkeley, Fall 2017 and Fall 2018*
 + Mathematical Analysis (B1) *USTC, Fall 2015*
+
+## Services
+Reviewer for: CDC, ACC, ECC, and IEEE TAC. 
 
 ##  News
 Good news is under construction. 
