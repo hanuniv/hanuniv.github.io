@@ -22,17 +22,21 @@ I am a PhD student in UC Berkeley IEOR Department, advised by Professor Javad La
 
 ##  Publications 
 
+### Journal 
++ **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](http://www.ieor.berkeley.edu/~lavaei/ODC_Com_2019_1.pdf), accepted for publication in SIAM Journal on Control and Optimization. 
+
 ### Conference Proceedings 
-+  **Han Feng**, Javad Lavaei,[*Escaping Locally Optimal Decentralized Control Polices via Damping*](), Proceedings of the American Control Conference (ACC), 2020.
++  **Han Feng**, Haixiang Zhang, Javad Lavaei, [*A Dynamical System Perspective for Escaping Sharp Local Minima in Equality Constrained Optimization Problems*](), to appear in Conference on Decision and Control (CDC), 2020.
++  **Han Feng**, Javad Lavaei, [*Escaping Locally Optimal Decentralized Control Polices via Damping*](), Proceedings of the American Control Conference (ACC), 2020.
 +  **Han Feng**, Javad Lavaei, [*On the Exponential Number of Connected Components for the Feasible Set of Optimal Decentralized Control Problem*](https://ieeexplore.ieee.org/abstract/document/8814952). Proceedings of the American Control Conference (ACC), 2019, **Finalist for Best Student Paper**. 
 +  **Han Feng**, Javad Lavaei, [*A Convex Approximation of Optimal Distributed Controller in Frequency Domain*](https://ieeexplore.ieee.org/abstract/document/8618977), Proceedings of Conference on Decision and Control (CDC), 2018.
 
 
 ### Preprints
-+ **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](http://www.ieor.berkeley.edu/~lavaei/ODC_Com_2019_1.pdf). Submitted for journal publication.
 + **Han Feng**, Javad Lavaei, [*Damping with Varying Regularization in Optimal Decentralized Control*](http://www.ieor.berkeley.edu/~lavaei/ODC_hom_2019_2.pdf). Submitted for journal publication.
 
 ## Teaching 
++ Algorithms for Data Science (IEOR 290) *UC Berkeley, Fall 2020*
 + Mathematical Programming II (IEOR 262B) *UC Berkeley, Spring 2019*
 + Nonlinear and Discrete Optimization (IEOR 160) *UC Berkeley, Fall 2017 and Fall 2018*
 + Mathematical Analysis (B1) *USTC, Fall 2015*
