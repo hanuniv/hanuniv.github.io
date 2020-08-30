@@ -42,7 +42,7 @@ I am a PhD student in UC Berkeley IEOR Department, advised by Professor Javad La
 + Mathematical Analysis (B1) *USTC, Fall 2015*
 
 ## Services
-Reviewer for: CDC, ACC, ECC, and IEEE TAC. 
+Reviewer for: CDC, ACC, ECC, IEEE TCNS and IEEE TAC. 
 
 ##  News
 Good news is under construction. 
