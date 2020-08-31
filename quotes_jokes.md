@@ -123,4 +123,4 @@ How can I plan?
 
 > Not even the best plan survives the first shot. 
 
-> When you jump, you are already focused towards the next obstacle and when you roll on a landing, you have the energy and they dynamics to keep going right away. And it is those dynamics that prevent you from getting hurt and have impacts on your body.  --- David Belle 
+> When you jump, you are already focused towards the next obstacle and when you roll on a landing, you have the energy and the dynamics to keep going right away. And it is those dynamics that prevent you from getting hurt and have impacts on your body.  --- David Belle 
