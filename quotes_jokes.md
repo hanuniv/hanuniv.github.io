@@ -93,6 +93,8 @@ Should I live like a joke?
 
 > 君子之于学也，藏焉，修焉，息焉，游焉． --- 学记
 
+> 道也者，不可须臾离者也，可离非道也．　--- 中庸
+
 Should I stretched myself? Should I be moderate? 
 
 > 道之不明也，我知之矣，贤者过之，不肖者不及也。 

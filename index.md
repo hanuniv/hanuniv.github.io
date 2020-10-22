@@ -23,7 +23,7 @@ I am a PhD student in UC Berkeley IEOR Department, advised by Professor Javad La
 ##  Publications 
 
 ### Journal 
-+ **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](http://www.ieor.berkeley.edu/~lavaei/ODC_Com_2019_1.pdf), accepted for publication in SIAM Journal on Control and Optimization. 
++ **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](https://epubs.siam.org/doi/abs/10.1137/19M123765X), accepted for publication in SIAM Journal on Control and Optimization. 
 
 ### Conference Proceedings 
 +  **Han Feng**, Haixiang Zhang, Javad Lavaei, [*A Dynamical System Perspective for Escaping Sharp Local Minima in Equality Constrained Optimization Problems*](), to appear in Conference on Decision and Control (CDC), 2020.
@@ -42,7 +42,7 @@ I am a PhD student in UC Berkeley IEOR Department, advised by Professor Javad La
 + Mathematical Analysis (B1) *USTC, Fall 2015*
 
 ## Services
-Reviewer for: CDC, ACC, ECC, IEEE TCNS and IEEE TAC. 
+Reviewer for: CDC, ACC, ECC, IEEE TCNS, L-CSS, and TAC. 
 
 ##  News
 Good news is under construction. 
