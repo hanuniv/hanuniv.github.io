@@ -34,11 +34,7 @@ I am a PhD student in UC Berkeley IEOR Department, advised by Professor Javad La
 
 ### Preprints
 + **Han Feng**, Javad Lavaei, [*Damping with Varying Regularization in Optimal Decentralized Control*](http://www.ieor.berkeley.edu/~lavaei/ODC_hom_2019_2.pdf). Submitted for journal publication.
-+ Ali Yekkehkhany, **Han Feng**, and Javad Lavaei
-[*A Hitting Time Analysis for Stochastic Time-Varying
-Functions with Applications to Adversarial Attacks
-on Computation of Markov Decision Processes
-*](http://www.ieor.berkeley.edu/~lavaei/Hitting_Time_2020_2.pdf)
++ Ali Yekkehkhany, **Han Feng**, and Javad Lavaei [*A Hitting Time Analysis for Stochastic Time-Varying Functions with Applications to Adversarial Attacks on Computation of Markov Decision Processes *](http://www.ieor.berkeley.edu/~lavaei/Hitting_Time_2020_2.pdf)
 
 ## Teaching 
 + Algorithms for Data Science (IEOR 290) *UC Berkeley, Fall 2020*
