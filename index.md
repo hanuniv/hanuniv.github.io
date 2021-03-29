@@ -33,10 +33,13 @@ I am a PhD student in UC Berkeley IEOR Department, advised by Professor Javad La
 
 
 ### Preprints
++ **Han Feng**, Javad Lavaei, [*Learning of Dynamical Systems under Adversarial Attacks*](http://www.ieor.berkeley.edu/~lavaei/Sys_ID_2021_1.pdf). Submitted for conference publication.
 + **Han Feng**, Javad Lavaei, [*Damping with Varying Regularization in Optimal Decentralized Control*](http://www.ieor.berkeley.edu/~lavaei/ODC_hom_2019_2.pdf). Submitted for journal publication.
-+ Ali Yekkehkhany, **Han Feng**, and Javad Lavaei [*A Hitting Time Analysis for Stochastic Time-Varying Functions with Applications to Adversarial Attacks on Computation of Markov Decision Processes*](http://www.ieor.berkeley.edu/~lavaei/Hitting_Time_2020_2.pdf), Submitted for journal publication.
++ Ali Yekkehkhany, **Han Feng**, and Javad Lavaei [*A Hitting Time Analysis for Stochastic Time-Varying Functions with Applications to Adversarial Attacks on Computation of Markov Decision Processes*](http://www.ieor.berkeley.edu/~lavaei/Hitting_Time_2020_2.pdf). Submitted for journal publication.
++ Ali Yekkehkhany, **Han Feng**, and Javad Lavaei [*Adversarial Attacks on Computation of the Modified Policy Iteration Method*](http://www.ieor.berkeley.edu/~lavaei/MDP_Attack_2021_1.pdf). Submitted for conference publication. 
 
 ## Teaching 
++ Logistics Network Design and Supply Chain Management (IEOR 153) *UC Berkeley, Spring 2021*
 + Algorithms for Data Science (IEOR 290) *UC Berkeley, Fall 2020*
 + Mathematical Programming II (IEOR 262B) *UC Berkeley, Spring 2019*
 + Nonlinear and Discrete Optimization (IEOR 160) *UC Berkeley, Fall 2017 and Fall 2018*
