@@ -23,9 +23,12 @@ I am a PhD student in UC Berkeley IEOR Department, advised by Professor Javad La
 ##  Publications 
 
 ### Journal 
-+ **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](https://epubs.siam.org/doi/abs/10.1137/19M123765X), accepted for publication in SIAM Journal on Control and Optimization. 
++ **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](https://epubs.siam.org/doi/abs/10.1137/19M123765X), SIAM Journal on Control and Optimization. 
++ **Han Feng**, Javad Lavaei, [*Damping with Varying Regularization in Optimal Decentralized Control*](http://www.ieor.berkeley.edu/~lavaei/ODC_hom_2019_2.pdf). To appear in IEEE Transactions on Control of Network Systems. 
 
 ### Conference Proceedings 
++ **Han Feng**, Javad Lavaei, [*Learning of Dynamical Systems under Adversarial Attacks*](http://www.ieor.berkeley.edu/~lavaei/Sys_ID_2021_1.pdf). Proceedings of Conference on Decision and Control (CDC), 2021.
++ Ali Yekkehkhany, **Han Feng**, and Javad Lavaei [*Adversarial Attacks on Computation of the Modified Policy Iteration Method*](http://www.ieor.berkeley.edu/~lavaei/MDP_Attack_2021_1.pdf). Proceedings of Conference on Decision and Control (CDC), 2021.
 +  **Han Feng**, Haixiang Zhang, Javad Lavaei, [*A Dynamical System Perspective for Escaping Sharp Local Minima in Equality Constrained Optimization Problems*](https://lavaei.ieor.berkeley.edu/sharp_escape_2020_1.pdf), Proceedings of Conference on Decision and Control (CDC), 2020.
 +  **Han Feng**, Javad Lavaei, [*Escaping Locally Optimal Decentralized Control Polices via Damping*](https://ieeexplore.ieee.org/abstract/document/9147961/), Proceedings of the American Control Conference (ACC), 2020.
 +  **Han Feng**, Javad Lavaei, [*On the Exponential Number of Connected Components for the Feasible Set of Optimal Decentralized Control Problem*](https://ieeexplore.ieee.org/abstract/document/8814952). Proceedings of the American Control Conference (ACC), 2019, **Finalist for Best Student Paper**. 
@@ -33,10 +36,7 @@ I am a PhD student in UC Berkeley IEOR Department, advised by Professor Javad La
 
 
 ### Preprints
-+ **Han Feng**, Javad Lavaei, [*Learning of Dynamical Systems under Adversarial Attacks*](http://www.ieor.berkeley.edu/~lavaei/Sys_ID_2021_1.pdf). Submitted for conference publication.
-+ **Han Feng**, Javad Lavaei, [*Damping with Varying Regularization in Optimal Decentralized Control*](http://www.ieor.berkeley.edu/~lavaei/ODC_hom_2019_2.pdf). Submitted for journal publication.
 + Ali Yekkehkhany, **Han Feng**, and Javad Lavaei [*A Hitting Time Analysis for Stochastic Time-Varying Functions with Applications to Adversarial Attacks on Computation of Markov Decision Processes*](http://www.ieor.berkeley.edu/~lavaei/Hitting_Time_2020_2.pdf). Submitted for journal publication.
-+ Ali Yekkehkhany, **Han Feng**, and Javad Lavaei [*Adversarial Attacks on Computation of the Modified Policy Iteration Method*](http://www.ieor.berkeley.edu/~lavaei/MDP_Attack_2021_1.pdf). Submitted for conference publication. 
 
 ## Teaching 
 + Logistics Network Design and Supply Chain Management (IEOR 153) *UC Berkeley, Spring 2021*
