@@ -11,7 +11,7 @@ layout: default
 <div class="row">
 <div class="col-8">
 ## About 
-I obtained my PhD at UC Berkeley IEOR Department. I am interested in control, learning, and optimization.
+I obtained my PhD at UC Berkeley IEOR Department. I have been interested in control, learning, and optimization.
 
 </div>
 <div class="col-4">
