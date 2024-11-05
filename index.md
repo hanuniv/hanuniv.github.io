@@ -11,7 +11,8 @@ layout: default
 <div class="row">
 <div class="col-8">
 ## About 
-I am a PhD student in UC Berkeley IEOR Department, advised by Professor Javad Lavaei. My research lies at the intersection of control and optimization. Recent interest involves learning dynamical systems. 
+I obtained my PhD at UC Berkeley IEOR Department. I am interested in control, learning, and optimization.
+
 </div>
 <div class="col-4">
 ![lassen-snowman](assets/lassen_snowman.png){:class="img-responsive" :height="300px" width="200px"} 
@@ -20,7 +21,7 @@ I am a PhD student in UC Berkeley IEOR Department, advised by Professor Javad La
 </div>
 
 
-##  Publications 
+## Selected Publications 
 
 ### Journal 
 + **Han Feng**, Javad Lavaei, [*Connectivity Properties of the Set of Stabilizing Static Decentralized Controllers*](https://epubs.siam.org/doi/abs/10.1137/19M123765X), SIAM Journal on Control and Optimization. 
